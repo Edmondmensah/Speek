@@ -220,6 +220,7 @@
         <file>android/settings.svg</file>
         <file>android/tor_logo.svg</file>
         <file>android/view_id.svg</file>
+        <file>tor_logo.png</file>
     </qresource>
     <qresource prefix="/"/>
 </RCC>
